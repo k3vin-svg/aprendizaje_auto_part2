@@ -34,4 +34,4 @@ Para ejecutar el notebook correctamente, es necesario tener instaladas las sigui
 > Este proyecto utiliza la métrica **DBCV** para la evaluación del algoritmo DBSCAN. Esta librería no suele venir preinstalada. Para poder ejecutar esa sección del código, debes instalarla ejecutando:
 
 ```bash
-!pip install "git+https://github.com/FelSiq/DBCV"
+pip install "git+https://github.com/FelSiq/DBCV"
